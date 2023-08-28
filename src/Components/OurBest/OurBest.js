@@ -20,7 +20,7 @@ const OurBest = () => {
                     <div class="bestCoffee-cardsItem">
                         <img src={bean} alt="sale-beans" class="bestCoffee-image"/>
                         <h2 class="bestCoffee-cardName">Presto Coffee Beans 1 kg</h2>
-                        <h3 class="bestCoffee-price">15.99$</h3>
+                        <h3 class="bestCoffee-price">15.29$</h3>
                     </div>
                 </a>
 
@@ -28,7 +28,7 @@ const OurBest = () => {
                     <div class="bestCoffee-cardsItem">
                         <img src={bean} alt="sale-beans" class="bestCoffee-image"/>
                         <h2 class="bestCoffee-cardName">AROMISTICO Coffee 1 kg</h2>
-                        <h3 class="bestCoffee-price">6.99$</h3>
+                        <h3 class="bestCoffee-price">6.98$</h3>
                     </div>
                 </a>
 
