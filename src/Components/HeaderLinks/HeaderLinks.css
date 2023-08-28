@@ -1,0 +1,23 @@
+.headMenu {
+    display: flex;
+    padding-left: 200px;
+  }
+
+.headMenu-menu {
+list-style: none;
+display: flex;
+align-items: end;
+padding-left: 0;
+}
+.headMenu-menuItem {
+display: grid;
+align-items: end;
+padding-left: 40px;
+padding-bottom: 3px;
+font-size: 12px;
+font-weight: 400;
+text-align: center;
+}
+.headMenu-menuItem a {
+    color: #fff
+  }

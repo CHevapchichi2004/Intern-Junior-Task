@@ -1,0 +1,51 @@
+.main {
+    width: 100%;
+    height: 650px;
+    background: url(../../images/desk-791178_1920.png) center center/cover no-repeat;
+    padding-top: 30px;
+  }
+  .main-words {
+    text-align: center;
+  }
+  .main-words__low {
+    color: #fff;
+    text-align: center;
+    margin-top: 25px;
+  }
+  .main-button {
+    display: block;
+    height: 30px;
+    width: 120px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: rgba(0, 0, 0, 0);
+    border: 1px solid #fff;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  h1 {
+    color: #fff;
+    margin-top: 130px;
+  }
+
+.aboutUs {
+    display: block;
+    height: 520px;
+    padding-top: 50px;
+}
+.aboutUs-promo {
+    text-align: center;
+    font-weight: 400;
+    font-size: 21px;
+    color: #000;
+}
+.aboutUs-descr {
+    margin: 41px auto;
+    text-align: center;
+    height: 225px;
+    width: 589px;
+}
